@@ -1,11 +1,13 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨!
+ I am Catherine! I am a Full Stack Web Developer student at Lambda School. 
 
 
+<details open>
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=CatRadin&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CatRadin&hide=css,java,html&theme=tokyonight">
+
 </p>
 </details>
 
