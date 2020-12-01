@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif =100x20)
+![image](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
 
 <!--
 **CatRadin/CatRadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
