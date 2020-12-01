@@ -1,4 +1,7 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨! 
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨!
+
+##
+![My Github stats](https://github-readme-stats.vercel.app/api?username=CatRadin&show_icons=true) 
 
 <!--
 **CatRadin/CatRadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
