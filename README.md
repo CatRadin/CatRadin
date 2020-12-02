@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨!
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨! <img src="https://i.pinimg.com/originals/46/c9/db/46c9dbb21e2268b00ce851119a63dd94.gif" width="30px">
 <img align="right" src="https://i.pinimg.com/originals/a5/7b/f9/a57bf940269ffbf167f8b0c5fd50315c.gif" width="100px">
 My name is Catherine. I'm a student at Lambda School. Full-stack developer with a passion for videogames played or created alike. Fascinated by everything that's CS-related. Quick learner and hungry for new knowledge.  
 
