@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨!
 <img align="right" src="https://i.pinimg.com/originals/a5/7b/f9/a57bf940269ffbf167f8b0c5fd50315c.gif" width="100px">
 My name is Catherine. I'm a student at Lambda School. Full-stack developer with a passion for videogames played or created alike. Fascinated by everything that's CS-related.
----
+##
 - 🌱 I’m currently learning HTML, CSS & JavaScript
 
 
