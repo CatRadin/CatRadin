@@ -6,7 +6,7 @@ My name is Catherine. I'm a student at Lambda School. Full-stack developer with 
 
 🌱 I’m currently learning HTML, CSS & JavaScript
 
-
+<!--
 <details open>
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
@@ -16,7 +16,7 @@ My name is Catherine. I'm a student at Lambda School. Full-stack developer with 
 </p>
 </details>
 
-<!--
+
 **CatRadin/CatRadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
