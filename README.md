@@ -5,6 +5,7 @@ My name is Catherine. I'm a new student at Lambda School. I'm a Full-stack devel
 ##
 
 🌱 I’m currently learning HTML, CSS & JavaScript
+🔭 I’m currently working on improving my coding skills
 
 <!--
 <details open>
