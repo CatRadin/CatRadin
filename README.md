@@ -8,7 +8,7 @@ My name is Catherine. I'm a new student at Lambda School. I'm a Full-stack devel
 - 🔭 I’m currently working on improving my coding skills
 
 
-<details open>
+<details closed>
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
