@@ -4,7 +4,7 @@ My name is Catherine. I'm a student at Lambda School. I'm a Full-stack developer
 
 ##
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript & React
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React & Redux
 - 🔭 I’m currently working on improving my coding skills
 - ⚡ Fun fact: I've been to all fifty states
 
