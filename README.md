@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
-<img align="right" src="https://i.pinimg.com/originals/a5/7b/f9/a57bf940269ffbf167f8b0c5fd50315c.gif" width="100px">
-My name is Catherine. I'm a student at Lambda School. I'm a Full-stack developer with a passion for videogames played and created alike, along with a fascination of web development. I'm a Quick learner, hungry for new knowledge. ✨
+<img align="right" src="https://i.pinimg.com/originals/ae/5a/20/ae5a20cac3e79fe2a447e8a8d97d7f27.gif" width="100px">
+My name is Catherine. I'm a Full Stack Web Developer and UI/UX enthusiast. I have a passion for creating innovative and scallable web applications. I'm a Quick learner and am hungry for new knowledge. Hit me up for a chat anytime. ✨
 
 ##
 
