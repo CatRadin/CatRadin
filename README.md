@@ -4,9 +4,9 @@ My name is Catherine. I'm a Full Stack Web Developer and UI/UX enthusiast. I hav
 
 ##
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Java, React & Python
-- 🔭 I’m currently working on improving my coding skills
-- ⚡ Fun fact: I've been to all fifty states
+- 🌱 I’m currently learning UX/UI design
+- 🔭 I’m currently working on making a profile website
+- ⚡ Fun fact: I've been to all fifty states 
 
 
 <details closed>
